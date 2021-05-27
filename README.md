@@ -4,9 +4,6 @@
     <img alt="Origamid" src="https://img.shields.io/badge/Site-Origamid-%237159c1?style=flat&logo=ghost">
   </a>
 </div>
-<div align="center">
-    <img alt="flexblog" title="#flexblog" src="/flexblog.PNG" width="50%">
-</div>
 
 ## 💻 Sobre o projeto
 
