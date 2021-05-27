@@ -5,7 +5,7 @@
   </a>
 </div>
 <div align="center">
-    <img alt="flexblog" title="#flexblog" src="flexblog.png">
+    <img alt="flexblog" title="#flexblog" src="/flexblog.PNG" width="50%">
 </div>
 
 ## 💻 Sobre o projeto
@@ -22,12 +22,12 @@ O layout do site foi feito de maneira responsiva utilizando apenas o flexbox, se
 
 ### Web
 <div align="center">
-    <img alt="flexblog" title="#flexblog" src="./assets/flexblog.png" />
+    <img alt="flexblog" title="#flexblog" src="/flexblog.PNG" width="50%">
 </div>
 
 ### Mobile
 <div align="center">
-    <img alt="flexblog-mobile" title="#flexblog-mobile" src="./assets/mobile.png" />
+    <img alt="flexblog-mobile" title="#flexblog-mobile" src="/mobile.PNG">
 </div>
 
 ---
