@@ -5,7 +5,7 @@
   </a>
 </div>
 <div align="center">
-    <img alt="flexblog" title="#flexblog" src="./assets/flexblog.png" />
+    <img alt="flexblog" title="#flexblog" src="flexblog.png">
 </div>
 
 ## 💻 Sobre o projeto
